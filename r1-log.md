@@ -4,7 +4,16 @@ The log of my #100DaysOfCode challenge. Started on [September 13, Monday, 2021].
 
 ## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+### R1D1
+#100DaysOfCode 
 
-### R1D2
+Today I wrote button with library tkinter, but I didn’t finish 
+
+Also I Learned  structuring python programs and how to check if a string is a valid keyword in python 😂
+
+And I Solved ~ 15 exercises via  code academy 
+💪 
+
+
+
+
