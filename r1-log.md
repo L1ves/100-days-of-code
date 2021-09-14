@@ -14,6 +14,14 @@ Also I Learned  structuring python programs and how to check if a string is a va
 And I Solved ~ 15 exercises via  code academy 
 💪 
 
+### R1D2
+#100DaysOfCode 
+**Today's Progress**: Learned exceptions try, except, meet with finally and raise
+Defined my individual program for study.
+ 
+
+**Thoughts** i can except error very easy, i like my code day.
+
 
 
 

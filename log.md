@@ -20,3 +20,16 @@
 **Link(s) to work**
 https://www.geeksforgeeks.org/check-string-valid-keyword-python/
 https://www.codecademy.com/paths/build-chatbots-with-python/tracks/introduction-to-python-and-chatbots/modules/welcome-to-chatbots-and-python-syntax/lessons/python-hello-world/exercises/modulo
+
+
+### Day 2: September 14, Wednesday
+
+**Today's Progress**: I Learned exceptions try, except, meet with finally and raise
+Defined my individual program for study.
+ 
+
+**Thoughts** i can exceptions error very easy, i like my day of code.
+
+**Link(s) to work**
+
+
