@@ -22,6 +22,13 @@ Defined my individual program for study.
 
 **Thoughts** i can except error very easy, i like my code day.
 
+### Day 3: September 15, Wednesday
 
+**Today's Progress**: I continued learn exceptions try, except, meet with finally and raise. I start work with function.
+ 
+
+**Thoughts** Next theme which I'll be study it's classes.
+
+**Link(s) to work**
 
 
