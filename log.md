@@ -41,4 +41,14 @@ Defined my individual program for study.
 
 **Link(s) to work**
 
+### Day 4: September 16, Thusday
+
+**Today's Progress**: I learned functions.
+ 
+
+**Thoughts** With function life will be easy.
+
+**Link(s) to work**
+
+
 
