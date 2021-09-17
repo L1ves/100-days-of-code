@@ -50,5 +50,15 @@ Defined my individual program for study.
 
 **Link(s) to work**
 
+### Day 5: September 17, Friday
+
+**Today's Progress**: I continued learn functions. DocString, *wargs, **kwargs, return value.
+ 
+
+**Thoughts** i want to be a coder
+
+**Link(s) to work**
+
+
 
 
