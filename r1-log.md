@@ -48,3 +48,13 @@ Defined my individual program for study.
 **Thoughts** i want to be a coder
 
 **Link(s) to work**
+
+### R1D6: September 19, Friday
+
+**Today's Progress**: I continued learn functions. Now a learn anonymous function.
+ 
+
+**Thoughts** Everything that seemed impossible for me 3 years ago is now easy and simple. Nothing is impossible 8)  
+Все что казалось невозможным для меня 3 года назад сейчас легко и просто. Нет ни чего невозможного 8)
+
+**Link(s) to work**
