@@ -49,7 +49,7 @@ Defined my individual program for study.
 
 **Link(s) to work**
 
-### R1D6: September 19, Friday
+### R1D6: September 19, Sun 
 
 **Today's Progress**: I continued learn functions. Now a learn anonymous function.
  
@@ -58,3 +58,10 @@ Defined my individual program for study.
 Все что казалось невозможным для меня 3 года назад сейчас легко и просто. Нет ни чего невозможного 8)
 
 **Link(s) to work**
+
+### Day 7: September 20, Mon
+
+**Today's Progress**: I continued learn functions. Now a learn Python Function within Functions
+ 
+
+**Thoughts** 
