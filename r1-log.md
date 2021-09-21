@@ -64,4 +64,9 @@ Defined my individual program for study.
 **Today's Progress**: I continued learn functions. Now a learn Python Function within Functions
  
 
-**Thoughts** 
+### Day 8: September 21, Tue
+
+**Today's Progress**: I continued learn functions. Now a learn Python lambda Functions
+ 
+
+**Thoughts**  Lambda definition does not include a “return” statement, it always contains an expression that is returned. We can also put a lambda definition anywhere a function is expected, and we don’t have to assign it to a variable at all. This is the simplicity of lambda functions.
