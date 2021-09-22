@@ -86,5 +86,9 @@ Defined my individual program for study.
 
 
 
+### R1D9: September 22, Tue
 
+**Today's Progress**: I learned iteration and includes
+ 
 
+**Thoughts** I decided that in the first round I would refresh my memory and master what was difficult before.  
