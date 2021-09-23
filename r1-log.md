@@ -77,3 +77,10 @@ Defined my individual program for study.
  
 
 **Thoughts** I decided that in the first round I would refresh my memory and master what was difficult before.
+
+### R1D10: September 22, Thu
+
+**Today's Progress**: I learned function in function, different between function and method.
+ 
+
+**Thoughts**  I'm fine 8) 10% of challenge behind me.

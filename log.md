@@ -86,9 +86,17 @@ Defined my individual program for study.
 
 
 
-### R1D9: September 22, Tue
+### R1D9: September 22, Wed
 
 **Today's Progress**: I learned iteration and includes
  
 
 **Thoughts** I decided that in the first round I would refresh my memory and master what was difficult before.  
+
+
+### R1D10: September 22, Thu
+
+**Today's Progress**: I learned function in function, different between function and method.
+ 
+
+**Thoughts**  I'm fine 8) 10% of challenge behind me.
