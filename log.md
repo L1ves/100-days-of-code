@@ -100,3 +100,9 @@ Defined my individual program for study.
  
 
 **Thoughts**  I'm fine 8) 10% of challenge behind me.
+### R1D9: September 22, Tue
+
+**Today's Progress**: I learned sqlite3 lib
+ 
+
+**Thoughts** sql injection 8)
