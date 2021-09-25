@@ -108,3 +108,6 @@ Defined my individual program for study.
  
 
 **Thoughts** sql injection 8)
+### R1D12: September 24, Sat
+
+**Today's Progress**: I learned sqlite3 lib and work with databases 
