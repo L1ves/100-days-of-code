@@ -95,3 +95,6 @@ Defined my individual program for study.
 ### R1D12: September 24, Sat
 
 **Today's Progress**: I learned sqlite3 lib and work with databases 
+### R1D14: September 25, Sun
+
+**Today's Progress**: Today I registered on the sie warcoders and solved two tasks, read about the iterations cicles for and for in for with two lists work with lists, functions 
