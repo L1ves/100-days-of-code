@@ -108,9 +108,14 @@ Defined my individual program for study.
  
 
 **Thoughts** sql injection 8)
-### R1D12: September 24, Sat
+### R1D12: September 25, Sat
 
 **Today's Progress**: I learned sqlite3 lib and work with databases 
-### R1D14: September 25, Sun
+### R1D13: September 26, Sun
 
-**Today's Progress**: Today I registered on the sie warcoders and solved two tasks, read about the iterations cicles for and for in for with two lists work with lists, functions 
+**Today's Progress**: Today I registered on the sie warcoders and solved two tasks, read about the iterations cicles for and for in for with two lists work with lists, functions
+ 
+**Today's Progress**: I learned sqlite3 lib and work with databases 
+### R1D14: September 27, Sun
+
+**Today's Progress**: Today I solved tasks on the site warcoder, read the book Python in system administration about reg. 
