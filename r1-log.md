@@ -103,3 +103,8 @@ Defined my individual program for study.
 ### R1D14: September 27, Mon
 
 **Today's Progress**: Today I solved tasks on the site warcoder, read the book Python in system administration about reg.
+### R1D15: September 28, Tue
+
+**Today's Progress**: Учил и писал sql запросы, работал со строками и циклами.
+**Thoughts** Все в цвет на работе большой пласт инфы по sql курил весь день, решил одну задачу на codewars, чем больше решаю задач тем больше читаю код и смотрю разные варианты решения. С точки зрения обучения решать задачи лучше чем читать теорию.
+
