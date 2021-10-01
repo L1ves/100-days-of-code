@@ -121,3 +121,9 @@ Defined my individual program for study.
 **Today's Progress**: Решил задачу на codewars
 
 **Thoughts** Почитал про списковые включения, поюзал, понял, прикольно. codewars прям вообще радует задачками, реально помогает качать скилл. Прочитал пол книги лутца, радует что я уверен на 200% что у меня все получится и скоро я перейду на машин лёрнинг. Да путь будет долгим, но это того стоит. У меня есть свои проекты и я их реализую.
+### R1D18: October 1, Friday
+
+**Today's Progress**: I learned sqlite3 and worked with 1C
+ 
+
+**Thoughts** DevOps waiting for me 8)
