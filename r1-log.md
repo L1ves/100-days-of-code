@@ -127,3 +127,11 @@ Defined my individual program for study.
  
 
 **Thoughts** DevOps waiting for me 8)
+
+###R1D18: October 2, Sat
+
+**Today's Progress**: I learned sqlite3 
+ 
+
+**Thoughts** 
+
