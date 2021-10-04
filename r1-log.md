@@ -135,3 +135,7 @@ Defined my individual program for study.
 
 **Thoughts** 
 
+###R1D19: October 3, Sat
+
+**Today's Progress**: I learned sqlite3 
+ 
