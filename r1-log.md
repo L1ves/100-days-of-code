@@ -165,6 +165,12 @@ Defined my individual program for study.
 
 **Thoughts** Времени на задачи не было, работал с 10 до 18, учил LPIC, Создавал контейнеры Docker с nginx.
 
+###R1D24: October 9,10 October
+
+**Today's Progress**:Вчера че то делал
+
+**Thoughts** ковырял контейнер, забид на девопс, надо кодить.
+
 
 
 
