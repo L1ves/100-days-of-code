@@ -159,27 +159,27 @@ Defined my individual program for study.
 
 **Thoughts** Времени на задачи не было, работал с 10 до 18, учил LPIC, Создавал контейнеры Docker с nginx.
 
-###R1D24: October 8, Thu
+###R1D24: October 8, Fri
 
 **Today's Progress**:Другие итерационные контексты"
 
 **Thoughts** Времени на задачи не было, работал с 10 до 18, учил LPIC, Создавал контейнеры Docker с nginx.
 
-###R1D25: October 9,10 October
+###R1D25: October 9,10 Sat,Sun
 
 **Today's Progress**:Вчера че то делал
 
 **Thoughts** ковырял контейнер, забид на девопс, надо кодить.
 
-###R1D26: October 11 October
+###R1D26: October 11 Mon
 
 **Today's Progress**: Записался на 9ти месячный курс яндекса по бэкенду, а че!? Любимая компания спонсирует 8) Кодил сегодня базу.
 
 **Thoughts** Повторение, мать учение!
 
+###R1D27: October 12 Tue
 
+**Today's Progress**: Кодил SQL
 
-
-
-
+**Thoughts** Обманул вчера корочи, прошел 17 упражнений только на Яндекс, забрили меня с курсом, сказали иди на Microtic MTCNA получи серт. Сегодня самостоятельно учил SQL.
 
