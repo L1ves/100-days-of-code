@@ -183,12 +183,11 @@ Defined my individual program for study.
 
 **Thoughts** Обманул вчера корочи, прошел 17 упражнений только на Яндекс, забрили меня с курсом, сказали иди на Microtic MTCNA получи серт. Сегодня самостоятельно учил SQL.
 
-###R1D28: October 13 Wed
+###R1D29,30,31,32,33: October 13,14,15,16,17,18
 
-**Today's Progress**: Кодил SQL, sqlite3
+**Today's Progress**: кодил bash, python работа с классами.
 
-**Thoughts** Сегодня составил крутой словарь для брута через for на bash, решал задачи python по книге, читал Лутца.
-Codeacademy подарил мне год PRO осваивал площадку.  
+**Thoughts** Закончил на codecademy bash, начал изучать ООП. В конце недели начинаю курс Сетевой инженер и параллельно изучаю джанго на codecademy. 
 
 
 
