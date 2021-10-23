@@ -210,4 +210,9 @@ Defined my individual program for study.
 
 **Thoughts**: Сегодня я сбавил обороты, пятница = хочется отдохнуть расслабиться на диване посмотреть кино. Зависал на codecademy.
 
+###R1D38: October 23 Sat
+**Today's Progress**: sqlite3, python.
+
+**Thoughts**: 115 строк кода :strong: 8)
+
 
