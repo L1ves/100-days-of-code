@@ -215,4 +215,10 @@ Defined my individual program for study.
 
 **Thoughts**: 115 строк кода :strong: 8)
 
+###R1D39: October 24 Sun
+**Today's Progress**: python3.
+
+**Thoughts**: Сегодня чекал курсы по python3  на codecademy. Открыл много курсов и подумал что мне интересно, чем бы я хотел заниматься!? Решил докурить python intermediate и попробовать ML.
+
+
 
