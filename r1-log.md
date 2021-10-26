@@ -220,5 +220,17 @@ Defined my individual program for study.
 
 **Thoughts**: Сегодня чекал курсы по python3  на codecademy. Открыл много курсов и подумал что мне интересно, чем бы я хотел заниматься!? Решил докурить python intermediate и попробовать ML.
 
+###R1D40: October 25 Mon
+**Today's Progress**: python3.
+
+**Thoughts**:
+
+###R1D41: October 26 Tue
+
+**Today's Progress**: python3 Classes.
+
+**Thoughts**: Изучал классы. Сегодня снова ощутил тягу и кайф от кодинга. 
+
+
 
 
