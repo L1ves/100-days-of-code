@@ -225,11 +225,18 @@ Defined my individual program for study.
 
 **Thoughts**:
 
-###R1D41: October 26 Tue
+##R1D41: October 26 Tue
 
 **Today's Progress**: python3 Classes.
 
 **Thoughts**: Изучал классы. Сегодня снова ощутил тягу и кайф от кодинга. 
+
+##R1D42: October 27 Wed
+
+**Today's Progress**: python3 Classes, SQL
+
+**Thoughts**: Изучал классы,работу с доками pydoc, писал SQL запросы. По запаре забыл вечером отметиться по челенджу, но не забыл кодить и учить python))
+
 
 
 
