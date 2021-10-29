@@ -237,11 +237,17 @@ Defined my individual program for study.
 
 **Thoughts**: Изучал классы,работу с доками pydoc, писал SQL запросы. По запаре забыл вечером отметиться по челенджу, но не забыл кодить и учить python))
 
-##R1D43: October 28 Wed
+##R1D43: October 28 Thu
 
 **Today's Progress**: python3 Classes, SQL
 
 **Thoughts**: писал SQL запросы, изучал ООП. 
+
+##R1D44: October 29 Fri
+
+**Today's Progress**: python3 OOP, SQL
+
+**Thoughts**: писал SQL запросы, изучал ООП как и вчера. 
 
 
 
