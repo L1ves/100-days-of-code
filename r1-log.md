@@ -249,6 +249,12 @@ Defined my individual program for study.
 
 **Thoughts**: писал SQL запросы, изучал ООП как и вчера. 
 
+##R1D45: October 30 Sat
+
+**Today's Progress**: python3 OOP, SQL, python network engineering.
+
+**Thoughts**: писал SQL запросы, изучал ООП, вроде бы определился на 90% что курсовой работой будет мобильное приложение.
+
 
 
 
