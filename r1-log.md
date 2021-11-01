@@ -255,6 +255,12 @@ Defined my individual program for study.
 
 **Thoughts**: писал SQL запросы, изучал ООП, вроде бы определился на 90% что курсовой работой будет мобильное приложение.
 
+##R1D46: November 1 Mon
+
+**Today's Progress**: python3 OOP
+
+**Thoughts**: 
+
 
 
 
