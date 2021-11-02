@@ -266,3 +266,11 @@ Defined my individual program for study.
 **Today's Progress**: python3 OOP, SQL.
 
 **Thoughts**: Решил три задания по курсу python for network engineer, SQL запросы учим-пишем. Придумываю проект и дальнейшие вектора развития.
+
+##R1D48: November 2 Tue
+
+**Today's Progress**: python3 OOP, SQL, python for network engineer
+
+**Thoughts**: Решил два задания по курсу python for network engineer, SQL запросы идем дальше. Скилл качается, чувствую больше сил, и больше возможностей!
+Дорогу осилит, идущий!
+
