@@ -274,3 +274,10 @@ Defined my individual program for study.
 **Thoughts**: Решил два задания по курсу python for network engineer, SQL запросы идем дальше. Скилл качается, чувствую больше сил, и больше возможностей!
 Дорогу осилит, идущий!
 
+##R1D49: November 3 Wed
+
+**Today's Progress**: SQL, python for network engineer
+
+**Thoughts**: Решил два задания по курсу python for network engineer, SQL запросы.
+
+
