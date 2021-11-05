@@ -280,10 +280,18 @@ Defined my individual program for study.
 
 **Thoughts**: Решил два задания по курсу python for network engineer, SQL запросы.
 
-##R1D450: November 4 Wed
+##R1D450: November 4 Sat
 
 **Today's Progress**: Bash
 
 **Thoughts**: Решил 10 задач на hackerrank. Хочу сегодня расслабиться подумать над проектом, поискать аналоги подумать об архитектуре. Почилить, посмотреть кинчик, провести время с семьей.
 Кста.. Чуть не забыл сегодня пройдена половина пути моего первого отрезка "Basic" Поздравляю себя! Я молодец, у меня все получится!!!
+
+##R1D451: November 5 Fri
+
+**Today's Progress**: Bash
+
+**Thoughts**: Решил 13 задач на hackerrank.
+
+
 
