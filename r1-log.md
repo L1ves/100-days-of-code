@@ -299,5 +299,11 @@ Defined my individual program for study.
 
 **Thoughts**: Решил 5 задач на hackerrank. **kwargs
 
+##R1D53: November 7 Sun
+
+**Today's Progress**: Bash, python3
+
+**Thoughts**: Решил 1 задачу на hackerrank. Закончил с *args **kwargs.
+
 
 
