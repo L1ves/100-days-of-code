@@ -306,4 +306,8 @@ Defined my individual program for study.
 **Thoughts**: Решил 1 задачу на hackerrank. Закончил с *args **kwargs.
 
 
+#R1D54: November 8 Mon
 
+**Today's Progress**: Bash, python3
+
+**Thoughts**: Решил 2 задачи на hackerrank. Поюзал List Comprehensions в бою. Дорешал две задачи  Pyneng со сдвигами в binary.
