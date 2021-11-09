@@ -311,3 +311,10 @@ Defined my individual program for study.
 **Today's Progress**: Bash, python3
 
 **Thoughts**: Решил 2 задачи на hackerrank. Поюзал List Comprehensions в бою. Дорешал две задачи  Pyneng со сдвигами в binary.
+
+#R1D55: November 9 Tue
+
+**Today's Progress**: SQL, python3
+
+**Thoughts**: Чуть поюзал SQL, по python3 namespaces, функции и стек вызовов. 
+
