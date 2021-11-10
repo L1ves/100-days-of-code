@@ -318,3 +318,10 @@ Defined my individual program for study.
 
 **Thoughts**: Чуть поюзал SQL, по python3 namespaces, функции и стек вызовов. 
 
+#R1D56: November 10 Wed
+
+**Today's Progress**: python3
+
+**Thoughts**: По python3 функции и стек вызовов, то что месяц назад не заходило, сейчас понял и решил все задачи.
+p.s Всему свое время.
+
