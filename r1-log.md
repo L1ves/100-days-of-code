@@ -320,8 +320,12 @@ Defined my individual program for study.
 
 #R1D56: November 10 Wed
 
-**Today's Progress**: python3
+**Today's Progress**: SQL, python3
 
-**Thoughts**: По python3 функции и стек вызовов, то что месяц назад не заходило, сейчас понял и решил все задачи.
+**Thoughts**:python3  функции и стек вызовов. 
 p.s Всему свое время.
+#R1D57: November 11 Thu
 
+**Today's Progress**: python3, SQL
+
+**Thoughts**: Пространство имен и области видимости. Реально круто когда начинаешь и ни чего не понимаешь, но продолжаешь действовать... А потом пазлик собирается =)
