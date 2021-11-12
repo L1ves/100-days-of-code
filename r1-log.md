@@ -225,107 +225,108 @@ Defined my individual program for study.
 
 **Thoughts**:
 
-##R1D41: October 26 Tue
+###R1D41: October 26 Tue
 
 **Today's Progress**: python3 Classes.
 
 **Thoughts**: Изучал классы. Сегодня снова ощутил тягу и кайф от кодинга. 
 
-##R1D42: October 27 Wed
+###R1D42: October 27 Wed
 
 **Today's Progress**: python3 Classes, SQL
 
 **Thoughts**: Изучал классы,работу с доками pydoc, писал SQL запросы. По запаре забыл вечером отметиться по челенджу, но не забыл кодить и учить python))
 
-##R1D43: October 28 Thu
+###R1D43: October 28 Thu
 
 **Today's Progress**: python3 Classes, SQL
 
 **Thoughts**: писал SQL запросы, изучал ООП. 
 
-##R1D44: October 29 Fri
+###R1D44: October 29 Fri
 
 **Today's Progress**: python3 OOP, SQL
 
 **Thoughts**: писал SQL запросы, изучал ООП как и вчера. 
 
-##R1D45: October 30 Sat
+###R1D45: October 30 Sat
 
 **Today's Progress**: python3 OOP, SQL, python network engineering.
 
 **Thoughts**: писал SQL запросы, изучал ООП, вроде бы определился на 90% что курсовой работой будет мобильное приложение.
 
-##R1D46: October 31 Sun
+###R1D46: October 31 Sun
 
 **Today's Progress**: python3 OOP
 
 **Thoughts**: 
 
-##R1D47: November 1 Mon
+###R1D47: November 1 Mon
 
 **Today's Progress**: python3 OOP, SQL.
 
 **Thoughts**: Решил три задания по курсу python for network engineer, SQL запросы учим-пишем. Придумываю проект и дальнейшие вектора развития.
 
-##R1D48: November 2 Tue
+###R1D48: November 2 Tue
 
 **Today's Progress**: python3 OOP, SQL, python for network engineer
 
 **Thoughts**: Решил два задания по курсу python for network engineer, SQL запросы идем дальше. Скилл качается, чувствую больше сил, и больше возможностей!
 Дорогу осилит, идущий!
 
-##R1D49: November 3 Wed
+###R1D49: November 3 Wed
 
 **Today's Progress**: SQL, python for network engineer
 
 **Thoughts**: Решил два задания по курсу python for network engineer, SQL запросы.
 
-##R1D50: November 4 Thu
+###R1D50: November 4 Thu
 
 **Today's Progress**: Bash
 
 **Thoughts**: Решил 10 задач на hackerrank. Хочу сегодня расслабиться подумать над проектом, поискать аналоги подумать об архитектуре. Почилить, посмотреть кинчик, провести время с семьей.
 Кста.. Чуть не забыл сегодня пройдена половина пути моего первого отрезка "Basic" Поздравляю себя! Я молодец, у меня все получится!!!
 
-##R1D51: November 5 Fri
+###R1D51: November 5 Fri
 
 **Today's Progress**: Bash
 
 **Thoughts**: Решил 13 задач на hackerrank.
 
-##R1D52: November 6 Sat
+###R1D52: November 6 Sat
 
 **Today's Progress**: Bash, python3
 
 **Thoughts**: Решил 5 задач на hackerrank. **kwargs
 
-##R1D53: November 7 Sun
+###R1D53: November 7 Sun
 
 **Today's Progress**: Bash, python3
 
 **Thoughts**: Решил 1 задачу на hackerrank. Закончил с *args **kwargs.
 
 
-#R1D54: November 8 Mon
+####R1D54: November 8 Mon
 
 **Today's Progress**: Bash, python3
 
 **Thoughts**: Решил 2 задачи на hackerrank. Поюзал List Comprehensions в бою. Дорешал две задачи  Pyneng со сдвигами в binary.
 
-#R1D55: November 9 Tue
+###R1D55: November 9 Tue
 
 **Today's Progress**: SQL, python3
 
 **Thoughts**: Чуть поюзал SQL, по python3 namespaces, функции и стек вызовов. 
 
-#R1D56: November 10 Wed
+###R1D56: November 10 Wed
 
 **Today's Progress**: SQL, python3
 
 **Thoughts**:python3  функции и стек вызовов. 
 p.s Всему свое время.
-#R1D57: November 11 Thu
 
-**Today's Progress**: python3, SQL
+### R1D57: November 11 Thu
+#100DaysOfCode
+**Today's Progress**: python3
 
-**Thoughts**: Пространство имен и области видимости. Реально круто когда начинаешь и ни чего не понимаешь, но продолжаешь действовать... А потом пазлик собирается =)
+**Thoughts**: Пространство имен и области видимости.Закрепил так сказать ))
