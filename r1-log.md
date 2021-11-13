@@ -332,13 +332,13 @@ p.s Всему свое время.
 
 **Thoughts**: Пространство имен и области видимости. Реально круто когда начинаешь и ни чего не понимаешь, но продолжаешь действовать... А потом пазлик собирается =)
 
-### R1D57: November 12 Fri
+### R1D58: November 12 Fri
 #100DaysOfCode
 **Today's Progress**: python3
 
 **Thoughts**: Пространство имен и области видимости.Закрепил так сказать ))
 
-### R1D58: November 13 Sat
+### R1D59: November 13 Sat
 #100DaysOfCode
 **Today's Progress**: python3
 
