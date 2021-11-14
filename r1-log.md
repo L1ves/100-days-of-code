@@ -344,3 +344,8 @@ p.s Всему свое время.
 
 **Thoughts**: Пространство имен и области видимости.Закрепил и закончил))
 
+### R1D60: November 14 Sun
+#100DaysOfCode
+**Today's Progress**: python3
+
+**Thoughts**: Built-In Higher-Order Functions
