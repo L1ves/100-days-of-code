@@ -349,3 +349,10 @@ p.s Всему свое время.
 **Today's Progress**: python3
 
 **Thoughts**: Built-In Higher-Order Functions
+
+### R1D61: November 15 Mon
+#100DaysOfCode
+**Today's Progress**: python3, классы
+
+**Thoughts**: Повторяем.
+
