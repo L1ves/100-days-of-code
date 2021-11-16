@@ -356,3 +356,9 @@ p.s Всему свое время.
 
 **Thoughts**: Повторяем.
 
+### R1D62: November 16 Tue
+#100DaysOfCode
+**Today's Progress**: python3, классы - пролжаю погружаться.
+
+**Thoughts**:
+
