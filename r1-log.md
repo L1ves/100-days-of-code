@@ -362,3 +362,9 @@ p.s Всему свое время.
 
 **Thoughts**:
 
+### R1D63: November 17 Wed
+#100DaysOfCode
+**Today's Progress**: python3, классы
+
+**Thoughts**:
+
