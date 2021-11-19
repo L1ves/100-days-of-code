@@ -368,3 +368,9 @@ p.s Всему свое время.
 
 **Thoughts**:
 
+### R1D64: November 18 Thu
+#100DaysOfCode
+**Today's Progress**: python3, OOP
+
+**Thoughts**:
+
