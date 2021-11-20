@@ -374,3 +374,15 @@ p.s Всему свое время.
 
 **Thoughts**:
 
+### R1D65: November 19 Fri
+#100DaysOfCode
+**Today's Progress**: python3, OOP
+
+**Thoughts**: допинг и программирование вещи не совместимые. 8(    Работоспособность падает на 99%.
+
+### R1D66: November 20 Sat
+#100DaysOfCode
+**Today's Progress**: python3, OOP, aiogram, requests, tkinter.
+
+**Thoughts**: Надоели эти задачки на сложение и умножение, пора начать кодить реальные вещи! Сегодня закодил бота телеграм для показа погоды.Строчек 100 написал.
+Кнопочки еще какие то делал на tkinter.
