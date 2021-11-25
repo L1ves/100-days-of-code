@@ -400,16 +400,22 @@ p.s Всему свое время.
 **Thoughts**: У обработчиков ошибок тоже есть иерархия. Упростили мой про акк на codecademy после 2х месяцев. Щас по новой регнусь и сделаю pro.
 
 
-### R1D69: November 23 Mon
+### R1D69: November 23 Tue
 #100DaysOfCode
 **Today's Progress**: python3, OOP, nodes.
 
 **Thoughts**: Юзаю алгоритмы и OOP. До конца года качаю теорию по ООП и алгоритмам, присматриваюсь к архитектуре. 1 Января 2022 начинаю свой проект.
 
-### R1D70: November 24 Mon
+### R1D70: November 24 Wed
 #100DaysOfCode
 **Today's Progress**: python3, OOP, nodes.
 
 **Thoughts**: Решал задачи по ООП снова чувствую себя слабаком, но это нормально, время залечит и я стану сильнее, мы это уже проходили!!! У меня все получится!!!
+
+### R1D71: November 25 Thu
+#100DaysOfCode
+**Today's Progress**: python3, OOP, nodes, kata.
+
+**Thoughts**: Решил задачу на ката, изучал алгоритмы, исключения. Получил серт MTCNA. 
 
 
