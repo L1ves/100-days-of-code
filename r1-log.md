@@ -418,4 +418,10 @@ p.s Всему свое время.
 
 **Thoughts**: Решил задачу на ката, изучал алгоритмы, исключения. Получил серт MTCNA. 
 
+### R1D72: November 26 Fri
+#100DaysOfCode
+**Today's Progress**: python3, Exceptions
+
+**Thoughts**:
+
 
