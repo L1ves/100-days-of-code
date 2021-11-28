@@ -430,4 +430,10 @@ p.s Всему свое время.
 
 **Thoughts**:
 
+### R1D74: November 28 Sun
+#100DaysOfCode
+**Today's Progress**: python3, Exceptions
+
+**Thoughts**:
+
 
