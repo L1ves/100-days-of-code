@@ -436,4 +436,10 @@ p.s Всему свое время.
 
 **Thoughts**:
 
+### R1D75: November 28 Sun
+#100DaysOfCode
+**Today's Progress**: python3, Exceptions, Unit testing.
+
+**Thoughts**:
+
 
