@@ -436,10 +436,14 @@ p.s Всему свое время.
 
 **Thoughts**:
 
-### R1D75: November 28 Sun
+### R1D75: November 29 Mon
 #100DaysOfCode
 **Today's Progress**: python3, Exceptions, Unit testing.
 
 **Thoughts**:
 
+### R1D76: November 30 Tue
+#100DaysOfCode
+**Today's Progress**: python3, Exceptions, Unit testing, nodes, algoritms.
+**Thoughts**: Решил 3 задачки из учебника, вспомнил про leetcode.
 
