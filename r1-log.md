@@ -447,9 +447,14 @@ p.s Всему свое время.
 **Today's Progress**: python3, Exceptions, Unit testing, nodes, algoritms.
 **Thoughts**: Решил 3 задачки из учебника, вспомнил про leetcode.
 
-### R1D77: December 1 Wed
-#100DaysOfCode
-**Today's Progress**: python3, Exceptions, Unit testing, nodes.
-**Thoughts**: Решил 2 задачки одну на codewars другую с курса для сетевых инженеров.
+### r1d77: december 1 wed
+#100daysofcode
+**today's progress**: python3, exceptions, unit testing, nodes.
+**thoughts**: решил 2 задачки одну на codewars другую с курса для сетевых инженеров.
+
+### r1d78: december 1 wed
+#100daysofcode
+**today's progress**: python3
+**thoughts**: решил 2 задачки одну с курса для сетевых инженеров другую с книжки python workout.
 
 
