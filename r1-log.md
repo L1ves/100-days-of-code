@@ -421,7 +421,6 @@ p.s Всему свое время.
 ### R1D72: November 26 Fri
 #100DaysOfCode
 **Today's Progress**: python3, Exceptions
-
 **Thoughts**:
 
 ### R1D73: November 27 Sat
@@ -447,14 +446,19 @@ p.s Всему свое время.
 **Today's Progress**: python3, Exceptions, Unit testing, nodes, algoritms.
 **Thoughts**: Решил 3 задачки из учебника, вспомнил про leetcode.
 
-### r1d77: december 1 wed
-#100daysofcode
-**today's progress**: python3, exceptions, unit testing, nodes.
-**thoughts**: решил 2 задачки одну на codewars другую с курса для сетевых инженеров.
+### R1D77: December 1 wed
+#100DaysOfCode
+**Today's progress**: python3, exceptions, unit testing, nodes.
+**Thoughts**: решил 2 задачки одну на codewars другую с курса для сетевых инженеров.
 
-### r1d78: december 1 wed
-#100daysofcode
-**today's progress**: python3
-**thoughts**: решил 2 задачки одну с курса для сетевых инженеров другую с книжки python workout.
+### R1D78: December 2 Thu
+#100DaysOfCode
+**Today's progress**: python3
+**Thoughts**: решил 2 задачки одну с курса для сетевых инженеров другую с книжки python workout.
+
+### R1D79: December 3 Fri
+#100DaysOfCode
+**Today's progress**: python3, OOP.
+**Thoughts**: Раскуривал классы лутца 2 том. Чат бота пишу.
 
 
