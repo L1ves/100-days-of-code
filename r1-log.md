@@ -472,4 +472,9 @@ p.s Всему свое время.
 **Today's progress**: C
 **Thoughts**: Вспоминаю синтаксис, вдохновляюсь силой и мощью возможностей языка С.
 
+### R1D82: December 6 Mon
+#100DaysOfCode
+**Today's progress**: CuCu
+**Thoughts**: Вспоминаю синтаксис, прогаю по книжке.
+
 
