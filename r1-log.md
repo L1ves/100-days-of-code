@@ -492,4 +492,8 @@ p.s Всему свое время.
 **Today's progress**: CuCu учу.
 **Thoughts**: Вспоминаю синтаксис, прогаю по книжке, сделал пару  задач.
 
+### R1D86: December 10 Fri
+#100DaysOfCode
+**Today's progress**: C
+**Thoughts**: Прогаю по книжкам, решил четыре задачи.
 
