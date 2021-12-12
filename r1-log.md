@@ -502,3 +502,8 @@ p.s Всему свое время.
 **Today's progress**: C
 **Thoughts**: Прогаю по книжкам, решил две задачи.
 
+### R1D88: December 12 Sat
+#100DaysOfCode
+**Today's progress**: C
+**Thoughts**: Решил одну задачу.
+
