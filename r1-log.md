@@ -502,8 +502,13 @@ p.s Всему свое время.
 **Today's progress**: C
 **Thoughts**: Прогаю по книжкам, решил две задачи.
 
-### R1D88: December 12 Sat
+### R1D88: December 12 Sun
 #100DaysOfCode
 **Today's progress**: C
 **Thoughts**: Решил одну задачу.
+
+### R1D89: December 13 Mon
+#100DaysOfCode
+**Today's progress**: C, sql, bash, grep
+**Thoughts**: Решил пару задач на C, поюзал join, join left, погрепал 4 задачи на hackerrank.
 
