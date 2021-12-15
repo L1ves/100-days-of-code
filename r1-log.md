@@ -517,3 +517,8 @@ p.s Всему свое время.
 **Today's progress**: C, sql, bash, grep
 **Thoughts**: Решил пару задач на C, на работе составлял простые запросы к БД, погрепал 1 задачу на hackerrank.
 
+### R1D91: December 15 Wed
+#100DaysOfCode
+**Today's progress**: C, sql
+**Thoughts**: Решил пару задач на C, на работе составлял простые запросы к БД, по join cross,  и union.
+
