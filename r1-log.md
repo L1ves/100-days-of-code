@@ -522,8 +522,13 @@ p.s Всему свое время.
 **Today's progress**: C, sql
 **Thoughts**: Решил пару задач на C, на работе составлял простые запросы к БД, по join cross,  и union.
 
-### R1D92: December 16 Wed
+### R1D92: December 16 Thu
 #100DaysOfCode
 **Today's progress**: C, sql
 **Thoughts**: Решил задачу на C
+
+### R1D93: December 17 Fri
+#100DaysOfCode
+**Today's progress**: C
+**Thoughts**: i solved two tasks.
 
