@@ -532,3 +532,8 @@ p.s Всему свое время.
 **Today's progress**: C
 **Thoughts**: i solved two tasks.
 
+### R1D94: December 18 Sat
+#100DaysOfCode
+**Today's progress**: C
+**Thoughts**: i solved one and read the books about C.
+
