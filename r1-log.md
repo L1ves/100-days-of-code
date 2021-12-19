@@ -537,3 +537,7 @@ p.s Всему свое время.
 **Today's progress**: C
 **Thoughts**: i solved one and read the books about C.
 
+### R1D95: December 19 Sun
+#100DaysOfCode
+**Today's progress**: C
+**Thoughts**: Изучал arrays.
