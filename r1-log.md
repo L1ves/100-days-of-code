@@ -541,3 +541,8 @@ p.s Всему свое время.
 #100DaysOfCode
 **Today's progress**: C
 **Thoughts**: Изучал arrays.
+
+### R1D96: December 20 Mon
+#100DaysOfCode
+**Today's progress**: C
+**Thoughts**: Изучал принятие решений, решил две задачи.
