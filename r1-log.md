@@ -546,3 +546,8 @@ p.s Всему свое время.
 #100DaysOfCode
 **Today's progress**: C
 **Thoughts**: Изучал принятие решений, решил две задачи.
+
+### R1D97: December 21 Tue
+#100DaysOfCode
+**Today's progress**: C
+**Thoughts**: Решил две задачи for.
