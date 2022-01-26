@@ -15,3 +15,17 @@ Today I'm learned C and solved one task in python.
 **Thoughts** I believe in my self! This will be very fun and profit!
 Goal №1 write code every day!
 GO GO GO! Uraaaaaaaaaaaaa!
+
+### R2D2
+#100DaysOfCode
+
+**Today's Progress**: I'm learned C.
+
+
+ 
+
+**Thoughts**
+
+
+
+
