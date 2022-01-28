@@ -37,5 +37,15 @@ GO GO GO! Uraaaaaaaaaaaaa!
 **Thoughts**
 
 
+### R2D3 January 27 Thu
+#100DaysOfCode
+
+**Today's Progress**: I'm learned C and win32.
+
+
+ 
+
+**Thoughts** 
+I want to write AV
 
 
