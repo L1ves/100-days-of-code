@@ -37,7 +37,7 @@ GO GO GO! Uraaaaaaaaaaaaa!
 **Thoughts**
 
 
-### R2D3 January 27 Thu
+### R2D4 January 28 Fri
 #100DaysOfCode
 
 **Today's Progress**: I'm learned C and win32.
