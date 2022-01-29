@@ -48,4 +48,14 @@ GO GO GO! Uraaaaaaaaaaaaa!
 **Thoughts** 
 I want to write AV
 
+### R2D5 January 29 Sat
+#100DaysOfCode
+
+**Today's Progress**: I'm learned C algorithms.
+
+
+ 
+
+**Thoughts** 
+Lazy, warm  day with my family <3
 
