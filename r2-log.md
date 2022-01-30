@@ -59,3 +59,14 @@ I want to write AV
 **Thoughts** 
 Lazy, warm  day with my family <3
 
+### R2D6 January 30 Sun
+#100DaysOfCode
+
+**Today's Progress**: I'm learned asm x86_64.
+
+
+ 
+
+**Thoughts** 
+It's was Lazy and  warm day again <3
+
