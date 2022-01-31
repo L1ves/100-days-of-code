@@ -70,3 +70,14 @@ Lazy, warm  day with my family <3
 **Thoughts** 
 It's was Lazy and  warm day again <3
 
+### R2D7 January 31 Mon
+#100DaysOfCode
+
+**Today's Progress**: I'm learned C, bash, python3. I'm solved two tasks with C language.
+
+
+ 
+
+**Thoughts** 
+Life is good 8) I'want be a blogger 8)
+
