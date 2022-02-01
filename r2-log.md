@@ -81,3 +81,14 @@ It's was Lazy and  warm day again <3
 **Thoughts** 
 Life is good 8) I'want be a blogger 8)
 
+### R2D8 February 1 Tue
+#100DaysOfCode
+
+**Today's Progress**: I'm learned C, asm x86_64.
+
+
+ 
+
+**Thoughts** 
+
+Сегодня посмотрел видео никому не известного парня, и он мне доступно объяснил одну маленькую деталь, которую я искал в Таненбауме и Созыкине, но не нашел. Пацан респект! 
