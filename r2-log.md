@@ -94,7 +94,7 @@ Life is good 8) I'want be a blogger 8)
 Сегодня посмотрел видео никому не известного парня, и он мне доступно объяснил одну маленькую деталь, которую я искал в Таненбауме и Созыкине, но не нашел. Пацан респект! 
 
 
-### R2D9 February 2 Tue
+### R2D9 February 2 Sat
 #100DaysOfCode
 
 **Today's Progress**: I'm learned C and solved 4 tasks, asm x86_64,
@@ -105,3 +105,15 @@ Life is good 8) I'want be a blogger 8)
 **Thoughts** 
 
 асм не такой страшный каким казался 3 года назад 8)
+
+### R2D10 February 3 Thu
+#100DaysOfCode
+
+**Today's Progress**: I'm learned C and solved 1 tasks and 4 quizes.
+
+
+ 
+
+**Thoughts** 
+
+
