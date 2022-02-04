@@ -116,4 +116,14 @@ Life is good 8) I'want be a blogger 8)
 
 **Thoughts** 
 
+### R2D11 February 4 Fri
+#100DaysOfCode
+
+**Today's Progress**: I'm learned C.
+
+
+ 
+
+**Thoughts** 
+
 
