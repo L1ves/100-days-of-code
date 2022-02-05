@@ -127,3 +127,14 @@ Life is good 8) I'want be a blogger 8)
 **Thoughts** 
 
 
+### R2D12 February 5 Sat
+#100DaysOfCode
+
+**Today's Progress**: I'm learned C and asm, solved 2 tasks.
+
+
+ 
+
+**Thoughts** 
+
+
