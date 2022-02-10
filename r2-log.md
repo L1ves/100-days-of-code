@@ -177,4 +177,14 @@ Life is good 8) I'want be a blogger 8)
 
 **Thoughts** 
 
+### R2D17 February 10 Thu
+#100DaysOfCode
+
+**Today's Progress**: I learned C and SQL.
+
+
+ 
+
+**Thoughts** 
+
 
