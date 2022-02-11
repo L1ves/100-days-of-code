@@ -187,4 +187,14 @@ Life is good 8) I'want be a blogger 8)
 
 **Thoughts** 
 
+### R2D18 February 11 Fri
+#100DaysOfCode
 
+**Today's Progress**: I learned C and solved 1 task.
+
+
+ 
+
+**Thoughts** 
+
+I'm a stronger ! 8)
